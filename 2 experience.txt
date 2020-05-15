@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>Industrial Training Experience</title>
+</head>
+<body bgcolor="91E3C9">
+<br>
+<p align="center"><font face="courier" size="25" color="black">Industrial 
+Training Experience</font>
+<br>
+<p align="center"><font face="papyrus" color="black">On January 13, 2020, as a Diploma in Library Management student 
+at UiTM Cawangan Kedah I began to join industry training at the Perpustakaan Tun 
+Abdul Razak, UiTM Cawangan Kuala Pilah. During my six weeks of industry training, 
+I learned a lot about library management that I couldn't get in class. I have learnt 
+in each section of the library in library administration, acquisition of printed 
+materials, cataloging and classification, procurement of serial issues, information 
+and reference services, library management systems, customer and collection 
+management, repository development, and record and archive management.</p>
+<p align="center"><font face="papyrus" color="black">Almost every day there, before starting work, I would organize books on 
+the shelves by subject. In addition, I was assigned to complete physical materials 
+such as barcode paste, spine labels and QR codes. Next week, I was assigned to brief 
+the interim students about Online Public Access Catalog (OPAC), Reference Management
+ Software which is Endnote and Mendeley. Also, create informative banners and 
+carnival posters using Adobe Photoshop.</p>
+<p align="center"><font face="papyrus" color="black">By participating in industry training, I am also exposed to 
+the real world of work and gain more experience. In addition to learning about library management, 
+I was also taught to be more disciplined in following the instructions and punctual.</p>
+<p align="center"><font face="papyrus" color="black">Last but not least, I am very grateful to be given the opportunity to do
+ industry training at Perpustakaan Tun Abdul Razak, UiTM Cawagan Negeri Sembilan.
+ A big thanks for all the staff at the library for teaching me for six weeks. 
+I am very happy to be surrounded by good and caring people.</p>
+<br>
+<hr>
+<br>
+<p align="center"><font face="courier" size="5">Images of Industrial Training
+at UiTM Kuala Pilah</font>
+<br>
+<br>
+<img src="image/image 1.jpg" width="650" height="550" border="4" align="center"
+<br>
+<img src="image/image 2.jpg" width="650" height="550" border="4" align="center"
+<br>
+<img src="image/image 3.jpg" width="650" height="550" border="4" align="center"
+<br>
+<img src="image/image 4.jpg" width="650" height="550" border="4" align="center"
+<br>
+<img src="image/image 5.jpg" width="650" height="550" border="4" align="center"
+<br>
+<img src="image/image 6.jpg" width="650" height="550" border="4" align="center"
+<br>
+<img src="image/image 7.jpg" width="650" height="550" border="4" align="center"
+<br>
+<img src="image/image 8.jpg" width="650" height="550" border="4" align="center"
+<br>
+<img src="nature/bunga.jpg" width="650" height="550" border="4" align="center"
+
+</body>
+</html>

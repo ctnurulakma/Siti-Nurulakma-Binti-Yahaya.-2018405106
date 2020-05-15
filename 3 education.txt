@@ -1,0 +1,31 @@
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<table border="1" width="60%" align="center" valign+"middle">
+<tr align="center" bgcolor="BDF3E2">
+<th>Education Level</th>
+<th>Result</th>
+</tr>
+
+<tr align="center">
+<td>img src="image/logo skt3.jpg" width="50" length="50%"
+SK (LKTP) Triang 03</td>
+<td>UPSR: 2A3B</td>
+</tr>
+
+<tr align="center">
+<td>SMK Triang 03</td>
+<td>SPM: 2A1A-2B+3B1C+</td>
+</tr>
+
+<tr align="center">
+<td>Universiti Teknologi Mara (UiTM) Cawangan Kedah</td>
+<td>GPA:3.42  CGPA:3.21</td>
+</tr>
+
+</table>
+
+</body>
+</html>

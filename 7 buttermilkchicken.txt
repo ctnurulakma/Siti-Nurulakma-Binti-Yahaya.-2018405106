@@ -1,0 +1,115 @@
+
+<html> 
+  
+<head> 
+    <title> 
+       Recipe
+    </title> 
+      
+    <style> 
+        body { 
+            background-color: white;
+	    margin: 20px; 
+            text-align: center; 
+        } 
+
+
+        h1 { 
+      
+	background-color: DEB51D; text-align: center; color: black; 
+	font-family: courier; 
+	font-size: 45px;
+        } 
+        img { 
+            float: left;  
+            margin: 5px; 
+	    width: 700px;
+	    height: 500px;
+        } 
+        i { 
+            text-align: center; 
+            font-size: 40px;
+ color: black; font-family: papyrus; 
+        } 
+	ul {
+	    text-align: center;
+	    list-style: inside;
+	    font-size: 20px;
+	font-family: times new roman;
+	}
+
+	p {
+	text-align: center; color: black; 
+	font-family: times new roman; 
+	font-size: 45px;	
+    </style> 
+
+
+</head> 
+  
+
+
+
+<body> 
+    <h1>Buttermilk Chicken</h1> 
+      
+ 
+    <div class="square"> 
+        <div>  
+            <img src=  
+			"image/buttermilk chicken.jpg">  
+        </div> 
+        <br>
+        <i>Ingredients:</i> 
+	<ul type="disc">
+<li>500g chicken</li>
+<li>1 egg</li>
+<li>1 small box bestari flour</li>
+<li>butter</li>
+<li>1 holland onion</li>
+<li>garlic</li>
+<li>4 red/green chillies</li>
+<li>curry leaves</li>
+<li>3/4 evaporated milk</li>
+<li>1-2 cheese slices</li>
+<li>pepper</li>
+<li>salt</li>
+</ul>
+
+<div class="tenor-gif-embed" data-postid="10849104" 
+data-share-method="host" data-width="15%" float="right"
+data-aspect-ratio="0.8533333333333334"><a 
+href="https://tenor.com/view/heart-eye-emoji-drooling-emoji-gif-10849104">Heart Eye Emoji Drooling Emoji GIF</a> from <a href="https://tenor.com/search/hearteyeemoji-gifs">Hearteyeemoji GIFs</a></div><script type="text/javascript" 
+async src="https://tenor.com/embed.js"></script>
+    </div> 
+
+<br>
+<br>
+<br>
+<hr>
+<p>How to cook?</p>
+
+<embed src="video/buttermilkchicken.mp4" loop="true"
+height="500" width="700"></embed>
+<br>
+<br>
+<table border="1" style="width:60%" align="center" valign="middle">
+  <tr align="center" bgcolor="DEB51D">
+    <th>Difficulty:</th>
+    <th>Preparation:</th>
+    <th>Cook:</th>
+    <th>Clean up:</th>
+    <th>Steps:</th>
+  </tr>
+  <tr align="center">
+    <td>Medium</td>
+    <td>10 min</td>
+    <td>20 min</td>
+    <td>15 min</td>
+    <td>6 steps</td>
+  </tr>
+</table>
+
+</body> 
+  
+</html> 
